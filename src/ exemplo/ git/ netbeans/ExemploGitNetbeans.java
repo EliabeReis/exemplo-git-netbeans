@@ -17,6 +17,7 @@ public class ExemploGitNetbeans {
     public static void main(String[] args) {
         System.out.println("Exemplo de um prjeto qual quer com git e netbeans");// TODO code application logic 
 
-//lterado da web
+//alterado da web
+//alterado do netbeans
 }
 }
