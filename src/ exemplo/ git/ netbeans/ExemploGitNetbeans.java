@@ -15,7 +15,8 @@ public class ExemploGitNetbeans {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Exemplo de um prjeto qual quer com git e netbeans");// TODO code application logic here
-    }
-    
+        System.out.println("Exemplo de um prjeto qual quer com git e netbeans");// TODO code application logic 
+
+//lterado da web
+}
 }
